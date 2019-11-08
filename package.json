@@ -1,5 +1,5 @@
 {
-  "name": "test-AI-class-lab6",
+  "name": "tensorflow-mnist",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BaoguominInChina/test-AI-class-lab6.git"
+    "url": "https://github.com/sugyan/tensorflow-mnist.git"
   },
   "engines": {
     "node": "6.x"
